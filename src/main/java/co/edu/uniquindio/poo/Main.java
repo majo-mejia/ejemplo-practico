@@ -8,6 +8,8 @@ public class Main {
         // to see how IntelliJ IDEA suggests fixing it.
         System.out.printf("Hola soy majo");
         System.out.print ("prueba de error");
+        System.out.print ("importante);
+
 
         }
     }
