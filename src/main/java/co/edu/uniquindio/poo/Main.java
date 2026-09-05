@@ -10,6 +10,8 @@ public class Main {
         System.out.print ("prueba de error");
         System.out.print ("importante);
 
+        System.out.printf("Hola soy majo mejia garces");
+        System.out.println( "en la universidad");
 
-        }
+    }
     }
